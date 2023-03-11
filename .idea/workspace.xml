@@ -4,45 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f94aa85-65f4-43c6-a209-0527013fa88c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/child/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/child/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/child/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/child/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/child/Raven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/child/Whale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework1/parent/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Soundable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Speakable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Swimmable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/impl/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/impl/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/impl/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/impl/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/impl/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/impl/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/impl/Raven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/veterenary/VetClinic.java" afterDir="false" />
+    <list default="true" id="2f94aa85-65f4-43c6-a209-0527013fa88c" name="Changes" comment="homework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -130,8 +94,16 @@
       <option name="presentableId" value="Default" />
       <updated>1678444575079</updated>
       <workItem from="1678444577464" duration="9936000" />
-      <workItem from="1678525649260" duration="3649000" />
+      <workItem from="1678525649260" duration="4706000" />
     </task>
+    <task id="LOCAL-00001" summary="homework">
+      <created>1678529823907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678529823907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +119,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="рщьуцщкл" />
+    <MESSAGE value="homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -48,7 +48,5 @@ public class Main {
             System.out.println(s);
             s.speak();
         }
-        System.out.println(System.getProperty("console.encoding"));
-
     }
 }
