@@ -2,13 +2,14 @@ package homework2.impl;
 
 import homework2.Animal;
 import homework2.Human;
+import homework2.Runnable;
 import homework2.Speakable;
 import lombok.Getter;
 import lombok.Setter;
 
 @Setter
 @Getter
-public class Doctor extends Human implements Speakable {
+public class Doctor extends Human implements Speakable, Runnable {
     private String specialization;
     private int age;
 
@@ -50,5 +51,10 @@ public class Doctor extends Human implements Speakable {
     @Override
     public void speak() {
         System.out.printf("Здравствуйте! Меня зовут %s%n", this.getName());
+    }
+
+    @Override
+    public int getRunningSpeed() {
+        return 8;
     }
 }
