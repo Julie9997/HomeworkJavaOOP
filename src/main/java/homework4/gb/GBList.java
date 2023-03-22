@@ -1,4 +1,4 @@
-package Homework4.gb;
+package homework4.gb;
 
 public interface GBList<T> extends Iterable<T>{
     boolean add(T t);

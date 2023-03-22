@@ -1,4 +1,4 @@
-package Homework4.gb.list;
+package homework4.gb.list;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-import Homework4.gb.list.GBLinkedList;
+import homework4.gb.list.GBLinkedList;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

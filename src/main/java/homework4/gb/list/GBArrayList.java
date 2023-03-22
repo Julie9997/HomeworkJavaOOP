@@ -1,6 +1,6 @@
-package Homework4.gb.list;
+package homework4.gb.list;
 
-import Homework4.gb.GBList;
+import homework4.gb.GBList;
 
 import java.util.Iterator;
 

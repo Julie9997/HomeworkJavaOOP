@@ -1,4 +1,4 @@
-package Homework4.gb;
+package homework4.gb;
 
 public interface GBDeque<T> extends Iterable<T> {
     boolean isEmpty();

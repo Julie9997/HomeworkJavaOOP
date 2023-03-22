@@ -1,10 +1,10 @@
-package Homework4;
+package homework4;
 
 
-import Homework4.gb.GBList;
-import Homework4.gb.list.GBArrayList;
-import Homework4.gb.list.GBArrayListWithCapacity;
-import Homework4.gb.list.GBLinkedList;
+import homework4.gb.GBList;
+import homework4.gb.list.GBArrayList;
+import homework4.gb.list.GBArrayListWithCapacity;
+import homework4.gb.list.GBLinkedList;
 
 public class Main {
     public static void main(String[] args) {

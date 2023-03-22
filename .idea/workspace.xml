@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f94aa85-65f4-43c6-a209-0527013fa88c" name="Changes" comment="homework3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework4/gb/GBDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework4/gb/GBList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework4/gb/list/ArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework4/gb/list/GBArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework4/gb/list/GBArrayListWithCapacity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework4/gb/list/GBLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GBArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GBLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2f94aa85-65f4-43c6-a209-0527013fa88c" name="Changes" comment="homework4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,19 +67,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.GBLinkedListTest">
-    <configuration name="Homework4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework4.Main" />
-      <module name="Homework.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="homework3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework3.Main" />
       <module name="Homework.main" />
@@ -110,6 +86,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework3.drugs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.Main" />
+      <module name="Homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,7 +156,7 @@
       <list>
         <item itemvalue="Gradle.GBLinkedListTest" />
         <item itemvalue="Gradle.GBArrayListTest" />
-        <item itemvalue="Application.Homework4.Main" />
+        <item itemvalue="Application.homework4.Main" />
         <item itemvalue="Application.homework3.Main" />
         <item itemvalue="Application.homework3.drugs.Main" />
       </list>
@@ -188,7 +177,7 @@
       <workItem from="1678834115551" duration="13048000" />
       <workItem from="1679271643619" duration="3153000" />
       <workItem from="1679358879786" duration="2633000" />
-      <workItem from="1679469957585" duration="6395000" />
+      <workItem from="1679469957585" duration="6969000" />
     </task>
     <task id="LOCAL-00001" summary="homework">
       <created>1678529823907</created>
@@ -211,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678897226013</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework4">
+      <created>1679477551440</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679477551440</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +228,8 @@
     <MESSAGE value="рщьуцщкл" />
     <MESSAGE value="homework" />
     <MESSAGE value="homework3" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework3" />
+    <MESSAGE value="homework4" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
